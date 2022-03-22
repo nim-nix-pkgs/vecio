@@ -9,7 +9,7 @@
   
   inputs.src-vecio-master.flake = false;
   inputs.src-vecio-master.owner = "emekoi";
-  inputs.src-vecio-master.ref   = "refs/heads/master";
+  inputs.src-vecio-master.ref   = "master";
   inputs.src-vecio-master.repo  = "vecio.nim";
   inputs.src-vecio-master.type  = "github";
   
