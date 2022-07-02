@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656298190,
-        "narHash": "sha256-dFMZjZ3qay9MXPAFddCJOJWAXiveKD/GeFgfg7+y5lQ=",
+        "lastModified": 1656301343,
+        "narHash": "sha256-DaJwlf/u+8YnAE7N/6Uzje+3CaW7aMX3ZTDOnv78F7k=",
         "owner": "nim-nix-pkgs",
         "repo": "vecio",
-        "rev": "185d5a5c0c762659964ddb7f1e870c5d52eb14d4",
+        "rev": "02377ada012d801f845dedd9c34e1a129f3a22b2",
         "type": "github"
       },
       "original": {
